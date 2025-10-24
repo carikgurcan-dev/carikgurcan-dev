@@ -67,4 +67,3 @@
 
 ---
 
-*Bu README öğrenen seviyesini yansıtır; istersen İngilizce versiyonunu ya da daha kısa LinkedIn özetini hazırlayayım.*
