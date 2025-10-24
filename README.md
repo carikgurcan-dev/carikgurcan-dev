@@ -1,7 +1,7 @@
 # 💫 Hakkımda
 
-👋 Merhaba, ben **Gürcan ÇARIK**  
-🎓 Yönetim Bilişim Sistemleri & Mekatronik Mezunuyum  
+👋 Merhaba, ben **Gürcan HELVACI**  
+🎓 Yönetim Bilişim Sistemleri & Bilgisayar Progamcılığı Öğrencisiyim  
 🧩 Yazılım test otomasyonu, web geliştirme ve pentest alanlarında kendimi geliştiriyorum.  
 🎯 Amacım; test süreçlerini otomasyonla birleştirerek verimli, güvenli ve sürdürülebilir yazılım sistemleri oluşturmak.
 
