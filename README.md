@@ -1,70 +1,70 @@
-# 💫 About Me
+# 💫 Hakkımda
 
-👋 Hi, I'm **Gürcan ÇARIK**  
-🎓 Management Information Systems & Mechatronics Graduate  
-🔍 SOC Analyst Candidate | 🌐 Network & Systems Security  
-🎯 Focused on Cybersecurity, Threat Detection, and System Hardening  
+👋 Merhaba, ben **Gürcan ÇARIK**  
+🎓 Yönetim Bilişim Sistemleri & Mekatronik Mezunuyum  
+🧩 Yazılım test otomasyonu, web geliştirme ve pentest alanlarında kendimi geliştiriyorum.  
+🎯 Amacım; test süreçlerini otomasyonla birleştirerek verimli, güvenli ve sürdürülebilir yazılım sistemleri oluşturmak.
 
-I'm building a career in **defensive cybersecurity**, specializing in **network monitoring**, **incident response**, and **log analysis**. I enjoy working with tools like **PowerShell**, **Wireshark**, **SIEM platforms**, and exploring **web application vulnerabilities**.
-
-📬 Contact: heroo_26@hotmail.com
+📬 İletişim: **heroo_26@hotmail.com**
 
 ---
 
-## 🌐 Connect with Me
-
+## 🌐 Bağlantılarım
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g%C3%BCrcan-%C3%A7arik/)
 
 ---
 
-## 💻 Tech Stack
+## 💻 Teknoloji Alanlarım
 
-**Cybersecurity & Networking**  
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+**🧪 Test Otomasyonu**  
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
+![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) 
+![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=for-the-badge&logoColor=white) 
+![UiPath](https://img.shields.io/badge/UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white) 
+![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+**💻 Web Geliştirme**  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+
+**🔐 Güvenlik & Pentest (Temel)**  
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F26733?style=for-the-badge&logo=burpsuite&logoColor=white) 
+![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white) 
 ![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 
-**Operating Systems & Tools**  
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VMware](https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white)
-![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
-
-**Web & App Security**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F26733?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
+**🗄️ Programlama & Veri**  
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
-## 🧠 Certifications & Trainings
+## 🧠 Eğitimler & Çalıştıklarım
 
-- 🎓 **CCNA** – Cisco Certified Network Associate *(in progress/completed)*
-- 🛡️ **Ethical Hacking & Pentesting** – SkillHub, Udemy
-- ⚙️ **PowerShell for Cybersecurity** – Practical Scripting & Automation
-- 🖥️ **MCSE Fundamentals** – Microsoft-based System & Network Education
-
----
-
-## 🚀 Career Goals
-
-- 🕵️‍♂️ Work as an L1–L2 SOC Analyst  
-- 📡 Gain advanced experience in **SIEM**, **threat intelligence**, and **incident response**  
-- 🔐 Contribute to proactive **defensive security** and **log correlation** solutions  
-- 🧰 Build automation tools for repetitive SOC tasks using scripting
+- Yazılım Test Otomasyonu (Selenium, TestNG, JUnit)  
+- UiPath ile RPA & Test Otomasyonu  
+- Excel VBA ile otomasyon ve makro uygulamaları  
+- Web Geliştirme: HTML / CSS / JavaScript / Node.js  
+- Temel Pentest: OWASP prensipleri, Burp Suite kullanımı
 
 ---
 
-## 📈 GitHub Stats
+## 🚀 Hedeflerim
 
+- Test otomasyonu projelerinde pratik kazanmak  
+- Web uygulamalarında fonksiyonel ve güvenlik testleri yapmak  
+- RPA ve scriptlerle test süreçlerini otomatikleştirmek  
+- Java & SQL ile test altyapılarını güçlendirmek
 
-## 👁️ Visitors
+---
+
+## 👁️ Ziyaretçiler
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GurcanCarik&label=Visitors&color=0e75b6&style=flat" alt="Visitor Counter" />
+  <img src="https://komarev.com/ghpvc/?username=GurcanCarik&label=Ziyaretçi%20Sayısı&color=0e75b6&style=flat" alt="Visitor Counter" />
 </p>
 
+---
+
+*Bu README öğrenen seviyesini yansıtır; istersen İngilizce versiyonunu ya da daha kısa LinkedIn özetini hazırlayayım.*
