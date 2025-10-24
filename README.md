@@ -61,9 +61,6 @@ I'm building a career in **defensive cybersecurity**, specializing in **network 
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GurcanCarik&show_icons=true&theme=radical" alt="Gürcan's GitHub Stats" />
-</p>
 
 ## 👁️ Visitors
 
