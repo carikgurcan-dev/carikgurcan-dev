@@ -2,7 +2,7 @@
 
 👋 Merhaba, ben **Gürcan HELVACI**  
 
-🎓 Yönetim Bilişim Sistemleri & Bilgisayar Programcılığı öğrencisiyim.  
+🎓 Yönetim Bilişim Sistemleri mezunu. 
 
 🧩 UiPath RPA, C# / .NET mikroservis mimarileri, masaüstü ve ASP.NET tabanlı full stack web uygulamaları geliştirerek gerçek iş problemlerine çözüm üreten ürünler oluşturmaya odaklanıyorum.  
 
