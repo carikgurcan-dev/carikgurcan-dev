@@ -1,69 +1,71 @@
-# 💫 Hakkımda
+# 💫 Hakkımda  
 
 👋 Merhaba, ben **Gürcan HELVACI**  
-🎓 Yönetim Bilişim Sistemleri & Bilgisayar Progamcılığı Öğrencisiyim  
-🧩 Yazılım test otomasyonu, web geliştirme ve pentest alanlarında kendimi geliştiriyorum.  
-🎯 Amacım; test süreçlerini otomasyonla birleştirerek verimli, güvenli ve sürdürülebilir yazılım sistemleri oluşturmak.
+
+🎓 Yönetim Bilişim Sistemleri & Bilgisayar Programcılığı öğrencisiyim.  
+
+🧩 UiPath RPA, C# / .NET mikroservis mimarileri, masaüstü ve ASP.NET tabanlı full stack web uygulamaları geliştirerek gerçek iş problemlerine çözüm üreten ürünler oluşturmaya odaklanıyorum.  
+
+📊 Temel veri bilimi yaklaşımlarını (veri analizi, raporlama, otomasyon destekli karar süreçleri) uygulamalarıma entegre ediyorum.  
+
+🎯 Amacım; otomasyon, backend mimarisi ve veri odaklı yaklaşımı birleştirerek ölçeklenebilir, sürdürülebilir ve katma değer üreten yazılım ürünleri geliştirmek.  
 
 📬 İletişim: **heroo_26@hotmail.com**
 
 ---
 
-## 🌐 Bağlantılarım
+## 🌐 Bağlantılarım  
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/g%C3%BCrcan-%C3%A7arik/)
 
 ---
 
-## 💻 Teknoloji Alanlarım
+## 💻 Uzmanlaştığım Teknoloji Alanları  
 
-**🧪 Test Otomasyonu**  
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white) 
-![JUnit](https://img.shields.io/badge/JUnit-25A162?style=for-the-badge&logo=junit5&logoColor=white) 
-![TestNG](https://img.shields.io/badge/TestNG-FF6600?style=for-the-badge&logoColor=white) 
-![UiPath](https://img.shields.io/badge/UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white) 
+### 🤖 RPA & Otomasyon  
+![UiPath](https://img.shields.io/badge/UiPath-FF6C37?style=for-the-badge&logo=uipath&logoColor=white)  
 ![Excel VBA](https://img.shields.io/badge/Excel%20VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-**💻 Web Geliştirme**  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+---
 
-**🔐 Güvenlik & Pentest (Temel)**  
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-F26733?style=for-the-badge&logo=burpsuite&logoColor=white) 
-![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white) 
-![Kali Linux](https://img.shields.io/badge/Kali-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-
-**🗄️ Programlama & Veri**  
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### ⚙️ Backend & Mikroservis  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  
+![ASP.NET](https://img.shields.io/badge/ASP.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)  
+![REST API](https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=api&logoColor=white)  
+![Microservices](https://img.shields.io/badge/Microservices-0A66C2?style=for-the-badge&logo=microsoft&logoColor=white)
 
 ---
 
-## 🧠 Eğitimler & Çalıştıklarım
-
-- Yazılım Test Otomasyonu (Selenium, TestNG, JUnit)  
-- UiPath ile RPA & Test Otomasyonu  
-- Excel VBA ile otomasyon ve makro uygulamaları  
-- Web Geliştirme: HTML / CSS / JavaScript / Node.js  
-- Temel Pentest: OWASP prensipleri, Burp Suite kullanımı
+### 🖥️ Masaüstü Uygulama Geliştirme  
+![WinForms](https://img.shields.io/badge/WinForms-0078D6?style=for-the-badge&logo=windows&logoColor=white)  
+![WPF](https://img.shields.io/badge/WPF-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ---
 
-## 🚀 Hedeflerim
-
-- Test otomasyonu projelerinde pratik kazanmak  
-- Web uygulamalarında fonksiyonel ve güvenlik testleri yapmak  
-- RPA ve scriptlerle test süreçlerini otomatikleştirmek  
-- Java & SQL ile test altyapılarını güçlendirmek
-
----
-
-## 👁️ Ziyaretçiler
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=GurcanCarik&label=Ziyaretçi%20Sayısı&color=0e75b6&style=flat" alt="Visitor Counter" />
-</p>
+### 🌐 Full Stack Web  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 
 ---
 
+### 📊 Veri & Temel Veri Bilimi  
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)  
+![Data Analysis](https://img.shields.io/badge/Data%20Analysis-2E8B57?style=for-the-badge&logo=databricks&logoColor=white)  
+![Reporting](https://img.shields.io/badge/Reporting-4B0082?style=for-the-badge&logo=microsoft-powerbi&logoColor=white)
+
+---
+
+## 🚀 Hedeflerim  
+- RPA ve .NET tabanlı gerçek iş ürünleri geliştirmek  
+- Mikroservis mimarisiyle ölçeklenebilir backend sistemleri kurmak  
+- Masaüstü + web + otomasyon entegre çözümler üretmek  
+- Veri odaklı karar süreçlerini uygulamalara dahil etmek  
+
+---
+
+## 👁️ Ziyaretçiler  
+
+<img src="https://komarev.com/ghpvc/?username=GurcanCarik&label=Ziyaretçi%20Sayısı&color=0e75b6&style=flat" alt="Visitor Counter" />
